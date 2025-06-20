@@ -13,5 +13,65 @@
     "pergunta": "Qual dessas estruturas é um loop?",
     "opcoes": ["if", "elif", "else", "for"],
     "resposta": "for"
-  }
+  },
+       {
+        "pergunta": "Qual é o operador usado para resto da divisão?",
+        "opcoes": ["//", "%", "**", "/"],
+        "resposta": "%"
+      },
+      {
+        "pergunta": "Qual comando usamos para criar comentários no Python?",
+        "opcoes": ["#", "//", "--", "/**/"],
+        "resposta": "#"
+      },
+      {
+        "pergunta": "O que faz o operador != ?",
+        "opcoes": ["Maior que", "Diferente", "Menor ou igual", "Igual"],
+        "resposta": "Diferente"
+      },
+      {
+        "pergunta": "Qual função converte uma string em número inteiro?",
+        "opcoes": ["str()", "float()", "int()", "input()"],
+        "resposta": "int()"
+      },
+      {
+        "pergunta": "Qual é a saída de len('Python')?",
+        "opcoes": ["5", "6", "7", "Erro"],
+        "resposta": "6"
+      },
+      {
+        "pergunta": "Qual comando encerra a execução de um loop imediatamente?",
+        "opcoes": ["continue", "break", "stop", "exit"],
+        "resposta": "break"
+      },
+      {
+        "pergunta": "Qual dessas estruturas permite repetir comandos?",
+        "opcoes": ["if", "else", "while", "elif"],
+        "resposta": "while"
+      },
+      {
+        "pergunta": "O que significa a expressão not True?",
+        "opcoes": ["Verdadeiro", "Falso", "Erro", "Nenhum"],
+        "resposta": "Falso"
+      },
+      {
+        "pergunta": "Qual comando usamos para condicional em Python?",
+        "opcoes": ["if", "for", "def", "while"],
+        "resposta": "if"
+      },
+      {
+        "pergunta": "Qual é a saída de print('Hello' + 'World')?",
+        "opcoes": ["Hello World", "HelloWorld", "HelloWorld", "Erro"],
+        "resposta": "HelloWorld"
+      },
+      {
+        "pergunta": "O que faz o comando range(5)?",
+        "opcoes": ["Cria uma lista [1, 2, 3, 4, 5]", "Cria uma sequência de 0 a 4", "Erro", "Cria uma lista de 5"],
+        "resposta": "Cria uma sequência de 0 a 4"
+      },
+      {
+        "pergunta": "Qual comando transforma texto em letras maiúsculas?",
+        "opcoes": ["toUpper()", "caps()", "upper()", "maiusculo()"],
+        "resposta": "upper()"
+        }
 ]
